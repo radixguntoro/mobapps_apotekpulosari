@@ -1,0 +1,585 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:flutter_image_compress] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:2:1-21:12
+MERGED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:2:1-30:12
+MERGED from [:shared_preferences] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/33ce613f3be855e4067c03d4c50e2ca3/firebase-analytics-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e02f6b726ff9abb106836a2f2244fcf8/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/705076da9d3d32ebc42b54859783ee6d/heifwriter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ac3489fc6a4eb012335542e5c256584/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/527879f86c7b1f078f9521b9e87579a5/jetified-easypermissions-0.2.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b1a8244d4efc667b03df702f0babcd2/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/26741b461eef47c3a2430f65d3844128/play-services-measurement-sdk-18.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2cabdf10bc4eca3ba7e56f84b2d50fc4/play-services-measurement-base-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1c09cccc4703b46919e29819e887f461/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d530c7fae0db853199782ed0434faf51/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5cfd49905e0321d5c963befb1a68af75/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e1716b896caa64a844e5f95efd560127/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f94028dfd114339cf510e993ae1129b8/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1f4ae7beeb6a43aa2f27d7ce3f65bbdd/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/9ff6d61c3d7ca987e50c625237fc4e1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/c6ae97ea9d04b75b751e210977a5a99a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2821878dbda74575382c946a359cf337/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e6de3da29a076ccc74125d2fcdeb79af/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:3:5-66
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:11:5-22:19
+MERGED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:19:5-28:19
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:19:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/33ce613f3be855e4067c03d4c50e2ca3/firebase-analytics-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/33ce613f3be855e4067c03d4c50e2ca3/firebase-analytics-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ac3489fc6a4eb012335542e5c256584/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ac3489fc6a4eb012335542e5c256584/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/527879f86c7b1f078f9521b9e87579a5/jetified-easypermissions-0.2.0/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/527879f86c7b1f078f9521b9e87579a5/jetified-easypermissions-0.2.0/AndroidManifest.xml:12:5-20
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:13:5-20:19
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:13:5-20:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/26741b461eef47c3a2430f65d3844128/play-services-measurement-sdk-18.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/26741b461eef47c3a2430f65d3844128/play-services-measurement-sdk-18.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2cabdf10bc4eca3ba7e56f84b2d50fc4/play-services-measurement-base-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2cabdf10bc4eca3ba7e56f84b2d50fc4/play-services-measurement-base-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:23:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:11:9-40
+	android:windowSoftInputMode
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:26:9-56
+	android:configChanges
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:21:9-59
+	android:allowBackup
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.izdihardev.apotek_pulosari.MainActivity
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:13:9-24:20
+	android:launchMode
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:27:9-29:33
+	android:value
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:29:13-30
+	android:name
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml:28:13-44
+uses-sdk
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_image_compress] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:6:5-9:55
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/33ce613f3be855e4067c03d4c50e2ca3/firebase-analytics-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/33ce613f3be855e4067c03d4c50e2ca3/firebase-analytics-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e02f6b726ff9abb106836a2f2244fcf8/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e02f6b726ff9abb106836a2f2244fcf8/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/705076da9d3d32ebc42b54859783ee6d/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/705076da9d3d32ebc42b54859783ee6d/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ac3489fc6a4eb012335542e5c256584/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ac3489fc6a4eb012335542e5c256584/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/527879f86c7b1f078f9521b9e87579a5/jetified-easypermissions-0.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/527879f86c7b1f078f9521b9e87579a5/jetified-easypermissions-0.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b1a8244d4efc667b03df702f0babcd2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b1a8244d4efc667b03df702f0babcd2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/26741b461eef47c3a2430f65d3844128/play-services-measurement-sdk-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/26741b461eef47c3a2430f65d3844128/play-services-measurement-sdk-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2cabdf10bc4eca3ba7e56f84b2d50fc4/play-services-measurement-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2cabdf10bc4eca3ba7e56f84b2d50fc4/play-services-measurement-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1c09cccc4703b46919e29819e887f461/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1c09cccc4703b46919e29819e887f461/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d530c7fae0db853199782ed0434faf51/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d530c7fae0db853199782ed0434faf51/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5cfd49905e0321d5c963befb1a68af75/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/5cfd49905e0321d5c963befb1a68af75/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e1716b896caa64a844e5f95efd560127/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e1716b896caa64a844e5f95efd560127/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f94028dfd114339cf510e993ae1129b8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/f94028dfd114339cf510e993ae1129b8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1f4ae7beeb6a43aa2f27d7ce3f65bbdd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1f4ae7beeb6a43aa2f27d7ce3f65bbdd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/9ff6d61c3d7ca987e50c625237fc4e1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/9ff6d61c3d7ca987e50c625237fc4e1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/c6ae97ea9d04b75b751e210977a5a99a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/c6ae97ea9d04b75b751e210977a5a99a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2821878dbda74575382c946a359cf337/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2821878dbda74575382c946a359cf337/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e6de3da29a076ccc74125d2fcdeb79af/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/e6de3da29a076ccc74125d2fcdeb79af/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/android/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/cb8bed4ac54a21ead77ceb8416fbf892/firebase-analytics-ktx-18.0.1/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:16:17-113
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:9:5-80
+MERGED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:9:5-80
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+MERGED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:8:22-80
+provider#androidx.core.content.FileProvider
+ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	tools:replace
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from [:open_file] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:13:13-62
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:8:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:11:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.camera
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:12:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:14:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/689f52596ab4ebeb43557bf0cfdd5613/play-services-measurement-sdk-api-18.0.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:14:22-65
+activity#com.shinow.qrscan.SecondActivity
+ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from [:qrscan] /Users/rx183/Workspace/Personal/project_mobapps/ma_apotikpulosari/build/qrscan/intermediates/library_manifest/release/AndroidManifest.xml:27:19-66
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/0d64606b043480556ed7dfd94cb9adc2/play-services-measurement-api-18.0.1/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/rx183/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/28eb793e3d1002fdf0bd2e970e5dd6a6/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rx183/.gradle/caches/transforms-2/files-2.1/ff84d0c8d232cad058fa36f6a0ca22da/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:14:9-19:63
+	android:screenOrientation
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:17:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:19:13-60
+	android:configChanges
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] /Users/rx183/.gradle/caches/transforms-2/files-2.1/b85e5af8de472fd427a2e6ddd75538d6/android-zxingLibrary-0.1.2-PRE/AndroidManifest.xml:15:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/3df792a43f085057cd1e3be93b93bb76/play-services-measurement-impl-18.0.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.1] /Users/rx183/.gradle/caches/transforms-2/files-2.1/1de7fe6c588e09f1f2ab6d92293ed0d2/play-services-measurement-18.0.1/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rx183/.gradle/caches/transforms-2/files-2.1/4d0a33c295cda04544c678b71c415d24/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

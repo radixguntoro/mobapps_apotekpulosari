@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">522071272092-0lbj8s8njmb3ea1a3jbn2e2ai377df1r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">522071272092</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWaBdA11m5hfc9M_2Gn-8II_1fwl7EHgc</string>
+    <string name="google_app_id" translatable="false">1:522071272092:android:4741b389888340b24f5b59</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWaBdA11m5hfc9M_2Gn-8II_1fwl7EHgc</string>
+    <string name="google_storage_bucket" translatable="false">molten-turbine-144706.appspot.com</string>
+    <string name="project_id" translatable="false">molten-turbine-144706</string>
+</resources>

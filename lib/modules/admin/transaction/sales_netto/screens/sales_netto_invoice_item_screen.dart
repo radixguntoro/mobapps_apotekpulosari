@@ -1,0 +1,132 @@
+
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
+
+class SalesNettoInvoiceItemScreen extends StatelessWidget {
+  final item;
+
+  SalesNettoInvoiceItemScreen(
+    this.item,
+  );
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: EdgeInsets.only(bottom: 6),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Container(
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Expanded(
+                  flex: 1,
+                  child: Container(
+                    padding: EdgeInsets.only(right: 8),
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      NumberFormat.currency(locale: 'id', symbol: '', decimalDigits: 0).format(double.parse(item['qty'].toString())),
+                      textAlign: TextAlign.end,
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    )
+                  ),
+                ),
+                Expanded(
+                  flex: 9,
+                  child: Container(
+                    padding: EdgeInsets.only(left: 8, right: 8),
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      item['medicineName'],
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          Container(
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Expanded(
+                  flex: 1,
+                  child: Container(
+                    padding: EdgeInsets.only(right: 8),
+                  ),
+                ),
+                Expanded(
+                  flex: 3,
+                  child: Container(
+                    padding: EdgeInsets.only(left: 12, right: 8),
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      NumberFormat.currency(locale: 'id', symbol: '', decimalDigits: 2).format(double.parse(item['price'].toString())),
+                      textAlign: TextAlign.start,
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    )
+                  ),
+                ),
+                Expanded(
+                  flex: 2,
+                  child: Container(
+                    padding: EdgeInsets.only(left: 8, right: 8),
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      "${NumberFormat.currency(locale: 'id', symbol: '', decimalDigits: 1).format(double.parse(item['discount'].toString()) * 100)} %",
+                      textAlign: TextAlign.start,
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    )
+                  ),
+                ),
+                Expanded(
+                  flex: 2,
+                  child: Container(
+                    padding: EdgeInsets.only(left: 8, right: 8),
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      double.parse(item['ppn'].toString()) > 0 ? "10%" : "0%",
+                      textAlign: TextAlign.start,
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    )
+                  ),
+                ),
+                Expanded(
+                  flex: 3,
+                  child: Container(
+                    margin: EdgeInsets.only(bottom: 6),
+                    child: Text(
+                      NumberFormat.currency(locale: 'id', symbol: '', decimalDigits: 2).format(double.parse(item['subtotal'].toString())),
+                      textAlign: TextAlign.end,
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 12,
+                      ),
+                    )
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      )
+    );
+  }
+}
