@@ -1,4 +1,4 @@
-# apotik_pulosari
+# Apotek Pulosari - Point of Sales (POS)
 
 A new Flutter project.
 
